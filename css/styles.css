@@ -13,6 +13,17 @@ body
 .content
 {
   color:white;
+  font-family:"Montserrat", sans-serif;
+  font-size: 2em;
+  padding-left: 23%;
 }
+
+
+.heading
+{
+  font-size:5em;
+  padding-left: 25%;
+}
+
 
 /**********************ID SELECTORS*********************************/
